@@ -1,5 +1,5 @@
 # Classificação de Vinhos
-Para instalar todas as bibliotecas, execute:
+Para instalar todas as bibliotecas, execute no terminal:
 pip install -r requirements.txt
 
 # Análise e manipulação de dados
