@@ -1,0 +1,16 @@
+# Ignorar arquivos de dados locais pesados
+# data/*.csv
+# data/*.xlsx
+
+# Ignorar pastas virtuais do Python
+venv/
+.venv/
+env/
+
+# Ignorar arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
